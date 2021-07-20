@@ -1,5 +1,6 @@
 # Multi-ProcessMatrixMultiplication
 Purpose:
+	
 	matrix.c performs matrix multiplication on two square matrices using multiple processes.
 	The command line takes 3 filenames as arguments. The first 2 specify the input file names 
 	of binary files that must both contain square matrices of the same size. The 3rd
